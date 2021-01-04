@@ -1,0 +1,13 @@
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/ProductOfPrimeNumbers/ProductOfPrimeNumbers/bin/Debug/netcoreapp3.1/ProductOfPrimeNumbers
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/ProductOfPrimeNumbers/ProductOfPrimeNumbers/bin/Debug/netcoreapp3.1/ProductOfPrimeNumbers.deps.json
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/ProductOfPrimeNumbers/ProductOfPrimeNumbers/bin/Debug/netcoreapp3.1/ProductOfPrimeNumbers.runtimeconfig.json
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/ProductOfPrimeNumbers/ProductOfPrimeNumbers/bin/Debug/netcoreapp3.1/ProductOfPrimeNumbers.runtimeconfig.dev.json
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/ProductOfPrimeNumbers/ProductOfPrimeNumbers/bin/Debug/netcoreapp3.1/ProductOfPrimeNumbers.dll
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/ProductOfPrimeNumbers/ProductOfPrimeNumbers/bin/Debug/netcoreapp3.1/ProductOfPrimeNumbers.pdb
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/ProductOfPrimeNumbers/ProductOfPrimeNumbers/obj/Debug/netcoreapp3.1/ProductOfPrimeNumbers.csprojAssemblyReference.cache
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/ProductOfPrimeNumbers/ProductOfPrimeNumbers/obj/Debug/netcoreapp3.1/ProductOfPrimeNumbers.AssemblyInfoInputs.cache
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/ProductOfPrimeNumbers/ProductOfPrimeNumbers/obj/Debug/netcoreapp3.1/ProductOfPrimeNumbers.AssemblyInfo.cs
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/ProductOfPrimeNumbers/ProductOfPrimeNumbers/obj/Debug/netcoreapp3.1/ProductOfPrimeNumbers.csproj.CoreCompileInputs.cache
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/ProductOfPrimeNumbers/ProductOfPrimeNumbers/obj/Debug/netcoreapp3.1/ProductOfPrimeNumbers.dll
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/ProductOfPrimeNumbers/ProductOfPrimeNumbers/obj/Debug/netcoreapp3.1/ProductOfPrimeNumbers.pdb
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/ProductOfPrimeNumbers/ProductOfPrimeNumbers/obj/Debug/netcoreapp3.1/ProductOfPrimeNumbers.genruntimeconfig.cache
