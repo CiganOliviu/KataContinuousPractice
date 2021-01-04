@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateBinaryMatrix", "GenerateBinaryMatrix\GenerateBinaryMatrix.csproj", "{15D2C550-7B22-4215-AC25-990EE218106F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGeneratedBinaryMatrix", "TestGeneratedBinaryMatrix\TestGeneratedBinaryMatrix.csproj", "{5C156906-7706-4534-8A3A-98ED7FE89C8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15D2C550-7B22-4215-AC25-990EE218106F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D2C550-7B22-4215-AC25-990EE218106F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D2C550-7B22-4215-AC25-990EE218106F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D2C550-7B22-4215-AC25-990EE218106F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C156906-7706-4534-8A3A-98ED7FE89C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C156906-7706-4534-8A3A-98ED7FE89C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C156906-7706-4534-8A3A-98ED7FE89C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C156906-7706-4534-8A3A-98ED7FE89C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
