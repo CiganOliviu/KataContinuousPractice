@@ -1,0 +1,13 @@
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/MinimumSumSequence/MinimumSumSequence/bin/Debug/netcoreapp3.1/MinimumSumSequence
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/MinimumSumSequence/MinimumSumSequence/bin/Debug/netcoreapp3.1/MinimumSumSequence.deps.json
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/MinimumSumSequence/MinimumSumSequence/bin/Debug/netcoreapp3.1/MinimumSumSequence.runtimeconfig.json
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/MinimumSumSequence/MinimumSumSequence/bin/Debug/netcoreapp3.1/MinimumSumSequence.runtimeconfig.dev.json
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/MinimumSumSequence/MinimumSumSequence/bin/Debug/netcoreapp3.1/MinimumSumSequence.dll
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/MinimumSumSequence/MinimumSumSequence/bin/Debug/netcoreapp3.1/MinimumSumSequence.pdb
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/MinimumSumSequence/MinimumSumSequence/obj/Debug/netcoreapp3.1/MinimumSumSequence.csprojAssemblyReference.cache
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/MinimumSumSequence/MinimumSumSequence/obj/Debug/netcoreapp3.1/MinimumSumSequence.AssemblyInfoInputs.cache
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/MinimumSumSequence/MinimumSumSequence/obj/Debug/netcoreapp3.1/MinimumSumSequence.AssemblyInfo.cs
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/MinimumSumSequence/MinimumSumSequence/obj/Debug/netcoreapp3.1/MinimumSumSequence.csproj.CoreCompileInputs.cache
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/MinimumSumSequence/MinimumSumSequence/obj/Debug/netcoreapp3.1/MinimumSumSequence.dll
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/MinimumSumSequence/MinimumSumSequence/obj/Debug/netcoreapp3.1/MinimumSumSequence.pdb
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/MinimumSumSequence/MinimumSumSequence/obj/Debug/netcoreapp3.1/MinimumSumSequence.genruntimeconfig.cache
