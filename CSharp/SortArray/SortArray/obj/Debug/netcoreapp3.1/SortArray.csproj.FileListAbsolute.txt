@@ -1,0 +1,13 @@
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/SortArray/SortArray/bin/Debug/netcoreapp3.1/SortArray
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/SortArray/SortArray/bin/Debug/netcoreapp3.1/SortArray.deps.json
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/SortArray/SortArray/bin/Debug/netcoreapp3.1/SortArray.runtimeconfig.json
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/SortArray/SortArray/bin/Debug/netcoreapp3.1/SortArray.runtimeconfig.dev.json
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/SortArray/SortArray/bin/Debug/netcoreapp3.1/SortArray.dll
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/SortArray/SortArray/bin/Debug/netcoreapp3.1/SortArray.pdb
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/SortArray/SortArray/obj/Debug/netcoreapp3.1/SortArray.csprojAssemblyReference.cache
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/SortArray/SortArray/obj/Debug/netcoreapp3.1/SortArray.AssemblyInfoInputs.cache
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/SortArray/SortArray/obj/Debug/netcoreapp3.1/SortArray.AssemblyInfo.cs
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/SortArray/SortArray/obj/Debug/netcoreapp3.1/SortArray.csproj.CoreCompileInputs.cache
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/SortArray/SortArray/obj/Debug/netcoreapp3.1/SortArray.dll
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/SortArray/SortArray/obj/Debug/netcoreapp3.1/SortArray.pdb
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/SortArray/SortArray/obj/Debug/netcoreapp3.1/SortArray.genruntimeconfig.cache
