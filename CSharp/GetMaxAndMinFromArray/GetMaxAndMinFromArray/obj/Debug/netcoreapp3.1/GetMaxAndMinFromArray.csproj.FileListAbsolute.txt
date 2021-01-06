@@ -1,0 +1,13 @@
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/GetMaxAndMinFromArray/GetMaxAndMinFromArray/bin/Debug/netcoreapp3.1/GetMaxAndMinFromArray
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/GetMaxAndMinFromArray/GetMaxAndMinFromArray/bin/Debug/netcoreapp3.1/GetMaxAndMinFromArray.deps.json
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/GetMaxAndMinFromArray/GetMaxAndMinFromArray/bin/Debug/netcoreapp3.1/GetMaxAndMinFromArray.runtimeconfig.json
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/GetMaxAndMinFromArray/GetMaxAndMinFromArray/bin/Debug/netcoreapp3.1/GetMaxAndMinFromArray.runtimeconfig.dev.json
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/GetMaxAndMinFromArray/GetMaxAndMinFromArray/bin/Debug/netcoreapp3.1/GetMaxAndMinFromArray.dll
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/GetMaxAndMinFromArray/GetMaxAndMinFromArray/bin/Debug/netcoreapp3.1/GetMaxAndMinFromArray.pdb
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/GetMaxAndMinFromArray/GetMaxAndMinFromArray/obj/Debug/netcoreapp3.1/GetMaxAndMinFromArray.csprojAssemblyReference.cache
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/GetMaxAndMinFromArray/GetMaxAndMinFromArray/obj/Debug/netcoreapp3.1/GetMaxAndMinFromArray.AssemblyInfoInputs.cache
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/GetMaxAndMinFromArray/GetMaxAndMinFromArray/obj/Debug/netcoreapp3.1/GetMaxAndMinFromArray.AssemblyInfo.cs
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/GetMaxAndMinFromArray/GetMaxAndMinFromArray/obj/Debug/netcoreapp3.1/GetMaxAndMinFromArray.csproj.CoreCompileInputs.cache
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/GetMaxAndMinFromArray/GetMaxAndMinFromArray/obj/Debug/netcoreapp3.1/GetMaxAndMinFromArray.dll
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/GetMaxAndMinFromArray/GetMaxAndMinFromArray/obj/Debug/netcoreapp3.1/GetMaxAndMinFromArray.pdb
+/media/cigan/Personal/GithubProjects/KataContinuousPractice/CSharp/GetMaxAndMinFromArray/GetMaxAndMinFromArray/obj/Debug/netcoreapp3.1/GetMaxAndMinFromArray.genruntimeconfig.cache
