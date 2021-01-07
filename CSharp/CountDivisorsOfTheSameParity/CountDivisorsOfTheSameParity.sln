@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountDivisorsOfTheSameParity", "CountDivisorsOfTheSameParity\CountDivisorsOfTheSameParity.csproj", "{15545AF4-3F44-4B13-9EEF-8439481E8DFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCountDivisorsObject", "TestCountDivisorsObject\TestCountDivisorsObject.csproj", "{F5959C90-8B9E-4990-B150-32ED39FA39FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15545AF4-3F44-4B13-9EEF-8439481E8DFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15545AF4-3F44-4B13-9EEF-8439481E8DFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15545AF4-3F44-4B13-9EEF-8439481E8DFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15545AF4-3F44-4B13-9EEF-8439481E8DFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5959C90-8B9E-4990-B150-32ED39FA39FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5959C90-8B9E-4990-B150-32ED39FA39FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5959C90-8B9E-4990-B150-32ED39FA39FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5959C90-8B9E-4990-B150-32ED39FA39FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
