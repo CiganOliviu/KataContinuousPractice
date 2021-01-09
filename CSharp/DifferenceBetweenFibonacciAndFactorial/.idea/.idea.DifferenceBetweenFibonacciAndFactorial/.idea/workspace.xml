@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f3c0ff9-0644-4f02-9924-5dd1605c8a00" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/BinarySearch/SearchEngine/ISearchEngine.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/BinarySearch/SearchEngine/SearchEngine.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/BinarySearch/SearchEngine/SearchEngineFactoryObject.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/BinarySearch/Tests/ITests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/BinarySearch/Tests/Tests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/BinarySearch/Tests/TestsFactoryObject.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountDivisorsOfTheSameParity/CountDivisorsOfTheSameParity/CountDivisorsEngine/CountDivisorsFactoryObject.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountDivisorsOfTheSameParity/CountDivisorsOfTheSameParity/CountDivisorsEngine/CountDivisorsObject.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountDivisorsOfTheSameParity/CountDivisorsOfTheSameParity/CountDivisorsEngine/ICountDivisors.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DifferenceBetweenFibonacciAndFactorial/FactorialEngine/FactorialEngine.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DifferenceBetweenFibonacciAndFactorial/FactorialEngine/FactorialEngineFactoryObject.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DifferenceBetweenFibonacciAndFactorial/FactorialEngine/IFactorialEngine.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DifferenceBetweenFibonacciAndFactorial/FibonacciEngine/FibonacciEngine.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DifferenceBetweenFibonacciAndFactorial/FibonacciEngine/FibonacciEngineFactoryObject.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DifferenceBetweenFibonacciAndFactorial/FibonacciEngine/IFibonacciEngine.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DifferenceBetweenFibonacciAndFactorial/ProcessDifference/ProcessDifference.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SystemTests/TestFactorialModule.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenerateBinaryMatrix/GenerateBinaryMatrix/GenerateBinaryMatrix/BinaryMatrixGenerator/IMatrixGenerator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenerateBinaryMatrix/GenerateBinaryMatrix/GenerateBinaryMatrix/BinaryMatrixGenerator/MatrixGenerator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenerateBinaryMatrix/GenerateBinaryMatrix/GenerateBinaryMatrix/BinaryMatrixGenerator/MatrixGeneratorFactoryObject.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GetMaxAndMinFromArray/GetMaxAndMinFromArray/GetLimitsEngine/GetLimitsEngine.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GetMaxAndMinFromArray/GetMaxAndMinFromArray/GetLimitsEngine/GetLimitsEngineFactory.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GetMaxAndMinFromArray/GetMaxAndMinFromArray/GetLimitsEngine/IGetLimitsEngine.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MinimumSumSequence/MinimumSumSequence/MinimumSumEngine/IMinimumSumEngine.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MinimumSumSequence/MinimumSumSequence/MinimumSumEngine/MinimumSumEngine.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MinimumSumSequence/MinimumSumSequence/MinimumSumEngine/MinimumSumEngineFactoryObject.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductOfPrimeNumbers/ProductOfPrimeNumbers/ProductOfPrimeNumbersEngine/IProductOfPrimeNumbers.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductOfPrimeNumbers/ProductOfPrimeNumbers/ProductOfPrimeNumbersEngine/ProductOfPrimeNumbers.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductOfPrimeNumbers/ProductOfPrimeNumbers/ProductOfPrimeNumbersEngine/ProductOfPrimeNumbersFactoryObject.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortArray/SortArray/SortEngine/ISortEngine.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortArray/SortArray/SortEngine/SortEngine.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortArray/SortArray/SortEngine/SortEngineFactoryObject.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DifferenceBetweenFibonacciAndFactorial/FibonacciEngine/IFibonacciEngine.cs" />
+        <option value="$PROJECT_DIR$/DifferenceBetweenFibonacciAndFactorial/FactorialEngine/FactorialEngineFactoryObject.cs" />
+        <option value="$PROJECT_DIR$/DifferenceBetweenFibonacciAndFactorial/FibonacciEngine/FibonacciEngineFactoryObject.cs" />
+        <option value="$PROJECT_DIR$/SystemTests/TestFactorialModule.cs" />
+        <option value="$PROJECT_DIR$/SystemTests/TestFibonacciModule.cs" />
+        <option value="$PROJECT_DIR$/DifferenceBetweenFibonacciAndFactorial/FactorialEngine/IFactorialEngine.cs" />
+        <option value="$PROJECT_DIR$/DifferenceBetweenFibonacciAndFactorial/FibonacciEngine/FibonacciEngine.cs" />
+        <option value="$PROJECT_DIR$/DifferenceBetweenFibonacciAndFactorial/FactorialEngine/FactorialEngine.cs" />
+        <option value="$PROJECT_DIR$/DifferenceBetweenFibonacciAndFactorial/ProcessDifference/ProcessDifference.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mpe75wjM51HSyQO1g9r3oqP5oL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f3c0ff9-0644-4f02-9924-5dd1605c8a00" name="Default Changelist" comment="" />
+      <created>1610194807831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610194807831</updated>
+      <workItem from="1610194826416" duration="2098000" />
+      <workItem from="1610197035408" duration="320000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2651" y="418" width="519" height="277" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1610196913218">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2651" y="418" width="519" height="277" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1610196913218" />
+    <state x="2511" y="288" width="800" height="537" key="Rider.ProjectTemplateDialog.Size" timestamp="1610195164818">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2511" y="288" width="800" height="537" key="Rider.ProjectTemplateDialog.Size/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1610195164818" />
+    <state x="2664" y="235" width="493" height="643" key="RiderGenerateDialog" timestamp="1610195102899">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2664" y="235" width="493" height="643" key="RiderGenerateDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1610195102899" />
+    <state x="2597" y="225" width="628" height="663" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1610195295089">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2597" y="225" width="628" height="663" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1610195295089" />
+  </component>
+</project>

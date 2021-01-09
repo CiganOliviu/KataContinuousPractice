@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DifferenceBetweenFibonacciAndFactorial", "DifferenceBetweenFibonacciAndFactorial\DifferenceBetweenFibonacciAndFactorial.csproj", "{9EFF260E-3155-4771-A3E9-511712219CC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemTests", "SystemTests\SystemTests.csproj", "{56DA0641-9FE9-45E9-BFF3-854AB1F8675B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EFF260E-3155-4771-A3E9-511712219CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EFF260E-3155-4771-A3E9-511712219CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EFF260E-3155-4771-A3E9-511712219CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EFF260E-3155-4771-A3E9-511712219CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56DA0641-9FE9-45E9-BFF3-854AB1F8675B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56DA0641-9FE9-45E9-BFF3-854AB1F8675B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56DA0641-9FE9-45E9-BFF3-854AB1F8675B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56DA0641-9FE9-45E9-BFF3-854AB1F8675B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
