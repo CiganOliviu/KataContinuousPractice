@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumAndProductBetweenDiagonalsMatrix", "SumAndProductBetweenDiagonalsMatrix\SumAndProductBetweenDiagonalsMatrix.csproj", "{78D016FB-1E31-4ADE-90A4-5ECE8F9216A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSumAndProductBetweenDiagonals", "TestSumAndProductBetweenDiagonals\TestSumAndProductBetweenDiagonals.csproj", "{93FA82BE-7C94-4099-8EDA-05FF9FF4443D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78D016FB-1E31-4ADE-90A4-5ECE8F9216A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78D016FB-1E31-4ADE-90A4-5ECE8F9216A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78D016FB-1E31-4ADE-90A4-5ECE8F9216A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78D016FB-1E31-4ADE-90A4-5ECE8F9216A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93FA82BE-7C94-4099-8EDA-05FF9FF4443D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FA82BE-7C94-4099-8EDA-05FF9FF4443D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93FA82BE-7C94-4099-8EDA-05FF9FF4443D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FA82BE-7C94-4099-8EDA-05FF9FF4443D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
