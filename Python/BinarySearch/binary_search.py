@@ -17,14 +17,21 @@ class BinarySearch(IBinarySearch):
             if self._is_value_found(array, value_to_search, middle):
                 return middle
 
-            if self._is_value_smaller(array, middle, value_to_search):
-                left = middle + 1
+            left = self.get_left_value(array, left, middle, value_to_search)
 
-            if self._is_value_bigger(array, middle, value_to_search):
-                right = middle - 1
+            right = self.get_right_value(array, middle, right, value_to_search)
 
         return -1
 
+    def get_right_value(self, array, middle, right, value_to_search):
+        if self._is_value_bigger(array, middle, value_to_search):
+            right = middle - 1
+        return right
+
+    def get_left_value(self, array, left, middle, value_to_search):
+        if self._is_value_smaller(array, middle, value_to_search):
+            left = middle + 1
+        return left
 
     def _get_middle_value_between_limits(self, left, right):
 

@@ -2,7 +2,7 @@ import unittest
 import binary_search
 
 
-class MyTestCase(unittest.TestCase):
+class BinarySearchTestCase(unittest.TestCase):
 
     _binary_search_engine = binary_search.BinarySearch()
 
